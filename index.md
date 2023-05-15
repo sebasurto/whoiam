@@ -10,7 +10,7 @@
 * R
 *
 
-# Proyectos
+# Proyects
 
 ## File Organizer 
 ### Description
