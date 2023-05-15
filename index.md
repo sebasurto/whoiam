@@ -1,5 +1,30 @@
-# Titulo 1 
+# ¿Who i am?
 
-## Titulo 2
+## 
 
-### Titulo 3 
+# Technologies
+
+* Python
+* Java
+* C
+* R
+*
+
+# Proyectos
+
+## File Organizer 
+### Description
+### Status
+### Purpose
+
+### 
+
+##
+### Description
+### Status
+### Purpose
+
+##
+### Description
+### Status
+### Purpose
